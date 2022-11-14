@@ -1,6 +1,9 @@
-•	User login and logout.
+•	User login and logout
+
 •	Rating and Review system
+
 •	Product, user & category Management on Admin side
+
 •	Implemented all the necessary e-commerce functionalities like product listing, category listing and add to cart etc.
 
 
